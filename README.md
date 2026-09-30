@@ -1,5 +1,5 @@
 # type-tracker
 practice project for learning GitHub project management
 
-##About
+## About
 A simple to-do list app we build while learmimg github project
